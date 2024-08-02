@@ -1,6 +1,8 @@
+<DOCTYPE html>
 <html>
-  <head>hello this is my aws application 
-  <body> i am nithin,i amgoing to develop an asw web application using git hub</body>
-  </head>
-  <bg color blue>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<body> hello guys
+</body>
 </html>
